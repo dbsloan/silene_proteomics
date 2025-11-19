@@ -1,0 +1,46 @@
+﻿Target,Targeting,Type,AGI_ID,Conica_ID,Accession,Notes
+M|P|N,Cyto+Organellar,AlaRS,At1g50200,23198,Sconica_v3_22300-RA,Maybe mito dominated?
+M|P|N,Cyto+Organellar,AlaRS,At1g50200,26979,Chr04-long_reads1.PB.2041.4,Maybe mito dominated?
+M|P,Organellar,AlaRS,At5g22800,29328,FUN_009941-T1,Maybe plastid dominated?
+M|P,Organellar,ArgRS,At1g66530,57610,Chr09-anno1.g43234.t1,lineage-specific paralogy
+M|P,Organellar,AsnRS,At4g17300,58392,Sconica_v3_13639-RA,
+N,Cyto,AsnRS,At5g56680,64676,Sconica_v3_22653-RA,
+N,Cyto,AspRS,At4g31180,64872,Iso-Seq_AspRS_At4g31180_64872,
+M|P,Organellar,AspRS,At4g33760,56023,Sconica_v3_18974-RA,
+M|P,Organellar,CysRS,At2g31170,65947,Chr02-anno1.g25381.t1,
+M|N,Cyto+Mito,GlnRS,At1G25350,45071_GLUED,Sconica_v3_42348-RA,Gain of mito targeting relative to Arabidopsis
+N,Cyto,GluRS,At5g26710,47158,Chr03-anno1.g51676.t1,Possible gain of mito; same locus as conica 52005
+M|P,Organellar,GluRS,At5g64050,62571,Sconica_v3_14264-RA,
+M|N,Cyto+Mito,GlyRS,At1g29870,35483,Sconica_v3_41503-RA,Not sure about expected targeting
+M|P,Organellar,GlyRS,At3g48110,22351,FUN_024374-T1,Possibly plastid only
+N,Cyto,HisRS,At3g02760,37497,Iso-Seq_HisRS_At3g02760_37497.00,
+N,Cyto,HisRS,At3g02760,MISSING,FUN_046796-T1,
+M|P,Organellar,HisRS,At3g46100,71500,Sconica_v3_02593-RA,
+N,Cyto,IleRS,At4g10320,15822,Sconica_v3_35665-RA,
+M|P,Organellar,IleRS,At5g49030,14244,Chr07-long_reads1.PB.3969.1,
+M|N,Cyto+Mito,LeuRS,At1g09620,15091,Chr05-anno2.g72739.t1,
+P,Plastid,LeuRS,At4g04350,28654,Chr09-anno1.g40716.t1,
+M|P|N,Cyto+Organellar,LysRS,At3g11710,53623,Sconica_v3_29677-RA,Gain of organellar targeting relative to Arabidopsis
+M|P,Organellar,LysRS,At3g13490,56941,FUN_029123-T1,
+N,Cyto,MetRS,At2g40660,76312,Sconica_v3_15968-RA,
+M|P,Organellar,MetRS,At3g55400,60981,Sconica_v3_04962-RA,
+M|N,Cyto+Mito,MetRS,At4g13780,42362_GLUED,Chr09-anno1.g39780.t1,Gain of mito targeting relative to Arabidopsis
+N,Cyto,PheRS,At1g72550,53898,Sconica_v3_11405-RA,
+M,Mito,PheRS,At3g58140,76028,Chr01-anno1.g64625.t1,
+P,Plastid,PheRS,At3g58140,77120,Sconica_v3_09891-RA,
+N,Cyto,ProRS,At3g62120,58151,Sconica_v3_40218-RA,
+M|P|N,Cyto+Organellar,ProRS,At3g62120,63323,Sconica_v3_33921-RA,Gain of organellar targeting relative to Arabidopsis
+N,Cyto,ProRS,At3g62120,67091,Chr07-anno1.g5125.t1,
+M|P,Organellar,ProRS,At5g52520,64027,Sconica_v3_52819-RA,
+M|P,Organellar,SerRS,At1g11870,69252,Sconica_v3_04574-RA,
+N,Cyto,SerRS,At5g27470,69341,Chr10-anno1.g31646.t1,
+N,Cyto,SerRS,At5g27470,71253,Sconica_v3_31395-RA,
+N,Cyto,ThrRS,At1g17960,50299,Chr03-anno1.g57229.t1,
+M|P,Organellar,ThrRS,At2g04842,53145,Chr03-anno2.g22858.t1,
+P,Plastid,TrpRS,At2g25840,74083,Sconica_v3_07188-RA,Loss of mito targeting relative to arabidopsis
+M|N,Cyto+Mito,TrpRS,At3g04600,73022_GLUED,Sconica_v3_31048-RA,Gain of mito targeting relative to Arabidopsis
+M|N,Cyto+Mito,TyrRS,At1g28350,45311,Sconica_v3_51829-RA,Gain of mito targeting relative to Arabidopsis
+M|N,Cyto+Mito,TyrRS,At1g28350,82905,Sconica_v3_09223-RA,Gain of mito targeting relative to Arabidopsis
+M|P,Organellar,TyrRS,At3g02660,3570,Chr02-anno1.g27084.t1,Not in original search set
+N,Cyto,ValRS,At1g14610,24427,Iso-Seq_ValRS_At1g14610_24427,Loss of mito targeting relative to arabidopsis
+M|P,Organellar,ValRS,At5g16715,26695,Sconica_v3_25295-RA,

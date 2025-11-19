@@ -1,0 +1,19 @@
+﻿Targeting,,,,,Sample,Rep,PSMs
+Cytosolic,PheRS,At1g72550,53898,Sconica_v3_11405-RA,Isolated Chloroplasts,A,0
+Mitochondrial,PheRS,At3g58140,76028,Chr01-anno1.g64625.t1,Isolated Chloroplasts,A,0
+Chloroplast,PheRS,At3g58140,77120,Sconica_v3_09891-RA,Isolated Chloroplasts,A,14
+Cytosolic,PheRS,At1g72550,53898,Sconica_v3_11405-RA,Isolated Chloroplasts,B,0
+Mitochondrial,PheRS,At3g58140,76028,Chr01-anno1.g64625.t1,Isolated Chloroplasts,B,0
+Chloroplast,PheRS,At3g58140,77120,Sconica_v3_09891-RA,Isolated Chloroplasts,B,20
+Cytosolic,PheRS,At1g72550,53898,Sconica_v3_11405-RA,Isolated Mitochondria,A,0
+Mitochondrial,PheRS,At3g58140,76028,Chr01-anno1.g64625.t1,Isolated Mitochondria,A,9
+Chloroplast,PheRS,At3g58140,77120,Sconica_v3_09891-RA,Isolated Mitochondria,A,2
+Cytosolic,PheRS,At1g72550,53898,Sconica_v3_11405-RA,Isolated Mitochondria,B,0
+Mitochondrial,PheRS,At3g58140,76028,Chr01-anno1.g64625.t1,Isolated Mitochondria,B,7
+Chloroplast,PheRS,At3g58140,77120,Sconica_v3_09891-RA,Isolated Mitochondria,B,1
+Cytosolic,PheRS,At1g72550,53898,Sconica_v3_11405-RA,Total Leaf,A,8
+Mitochondrial,PheRS,At3g58140,76028,Chr01-anno1.g64625.t1,Total Leaf,A,0
+Chloroplast,PheRS,At3g58140,77120,Sconica_v3_09891-RA,Total Leaf,A,17
+Cytosolic,PheRS,At1g72550,53898,Sconica_v3_11405-RA,Total Leaf,B,7
+Mitochondrial,PheRS,At3g58140,76028,Chr01-anno1.g64625.t1,Total Leaf,B,0
+Chloroplast,PheRS,At3g58140,77120,Sconica_v3_09891-RA,Total Leaf,B,8

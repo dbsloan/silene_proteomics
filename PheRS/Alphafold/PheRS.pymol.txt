@@ -1,0 +1,17 @@
+#Used PyMol v3.13 to open fold_2025_11_14_21_33_silene_conica_mito_phers_with_cyto_trna_re_run_model_0.cif
+
+select rna, resn A+U+G+C
+cmd.color_deep("slate", 'rna', 0)
+set cartoon_transparency, 0.3, 'rna'
+
+select proteins, polymer.protein
+cmd.color_deep("wheat", 'proteins', 0)
+cmd.show_as("cartoon"   ,'proteins')
+set cartoon_transparency, 0.3, 'proteins'
+
+color ruby, protein and resi 135
+show sticks, protein and resi 135
+
+show spheres, protein and resi 135+294+314+362
+color ruby, protein and resi 135+362
+color brightorange, protein and resi 294+314

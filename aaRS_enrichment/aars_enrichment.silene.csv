@@ -1,0 +1,46 @@
+"Target","Targeting","Type","AGI_ID","Conica_ID","Accession","Notes","conica_chloroplast_1","conica_chloroplast_2","conica_mito_1","conica_mito_2","conica_nuclear_1","conica_nuclear_2","Mitochondrial","Cytosolic","Chloroplast"
+"M|P|N","Cyto+Organellar","AlaRS","At1g50200","23198","Sconica_v3_22300-RA","Maybe mito dominated?",0,0,0,0,3,4,1,1,1
+"M|P|N","Cyto+Organellar","AlaRS","At1g50200","26979","Chr04-long_reads1.PB.2041.4","Maybe mito dominated?",2,0,20,17,5,6,1,1,1
+"M|P","Organellar","AlaRS","At5g22800","29328","FUN_009941-T1","Maybe plastid dominated?",20,24,1,0,15,4,1,0,1
+"M|P","Organellar","ArgRS","At1g66530","57610","Chr09-anno1.g43234.t1","lineage-specific paralogy",7,10,8,6,10,8,1,0,1
+"M|P","Organellar","AsnRS","At4g17300","58392","Sconica_v3_13639-RA","",7,11,13,15,6,4,1,0,1
+"N","Cyto","AsnRS","At5g56680","64676","Sconica_v3_22653-RA","",0,0,1,1,10,14,0,1,0
+"N","Cyto","AspRS","At4g31180","64872","Iso-Seq_AspRS_At4g31180_64872","",0,0,2,0,17,17,0,1,0
+"M|P","Organellar","AspRS","At4g33760","56023","Sconica_v3_18974-RA","",1,4,7,3,0,0,1,0,1
+"M|P","Organellar","CysRS","At2g31170","65947","Chr02-anno1.g25381.t1","",1,3,21,19,1,0,1,0,1
+"M|N","Cyto+Mito","GlnRS","At1G25350","45071_GLUED","Sconica_v3_42348-RA","Gain of mito targeting relative to Arabidopsis",0,0,5,2,8,8,1,1,0
+"N","Cyto","GluRS","At5g26710","47158","Chr03-anno1.g51676.t1","Possible gain of mito; same locus as conica 52005",0,0,13,4,7,8,0,1,0
+"M|P","Organellar","GluRS","At5g64050","62571","Sconica_v3_14264-RA","",7,10,7,7,5,2,1,0,1
+"M|N","Cyto+Mito","GlyRS","At1g29870","35483","Sconica_v3_41503-RA","Not sure about expected targeting",0,0,17,14,18,21,1,1,0
+"M|P","Organellar","GlyRS","At3g48110","22351","FUN_024374-T1","Possibly plastid only",12,15,0,0,8,1,1,0,1
+"N","Cyto","HisRS","At3g02760","37497","Iso-Seq_HisRS_At3g02760_37497.00","",0,0,0,0,0,1,0,1,0
+"N","Cyto","HisRS","At3g02760","MISSING","FUN_046796-T1","",0,0,0,0,8,3,0,1,0
+"M|P","Organellar","HisRS","At3g46100","71500","Sconica_v3_02593-RA","",1,3,3,2,3,0,1,0,1
+"N","Cyto","IleRS","At4g10320","15822","Sconica_v3_35665-RA","",0,0,0,0,2,8,0,1,0
+"M|P","Organellar","IleRS","At5g49030","14244","Chr07-long_reads1.PB.3969.1","",9,11,12,7,6,3,1,0,1
+"M|N","Cyto+Mito","LeuRS","At1g09620","15091","Chr05-anno2.g72739.t1","",0,0,14,11,8,5,1,1,0
+"P","Plastid","LeuRS","At4g04350","28654","Chr09-anno1.g40716.t1","",11,11,1,0,11,5,0,0,1
+"M|P|N","Cyto+Organellar","LysRS","At3g11710","53623","Sconica_v3_29677-RA","Gain of organellar targeting relative to Arabidopsis",0,0,11,6,14,9,1,1,1
+"M|P","Organellar","LysRS","At3g13490","56941","FUN_029123-T1","",5,8,0,0,6,0,1,0,1
+"N","Cyto","MetRS","At2g40660","76312","Sconica_v3_15968-RA","",0,0,1,0,1,2,0,1,0
+"M|P","Organellar","MetRS","At3g55400","60981","Sconica_v3_04962-RA","",6,11,3,2,5,2,1,0,1
+"M|N","Cyto+Mito","MetRS","At4g13780","42362_GLUED","Chr09-anno1.g39780.t1","Gain of mito targeting relative to Arabidopsis",0,0,12,6,6,9,1,1,0
+"N","Cyto","PheRS","At1g72550","53898","Sconica_v3_11405-RA","",0,0,0,0,8,7,0,1,0
+"M","Mito","PheRS","At3g58140","76028","Chr01-anno1.g64625.t1","",0,0,9,7,0,0,1,0,0
+"P","Plastid","PheRS","At3g58140","77120","Sconica_v3_09891-RA","",14,20,2,1,17,8,0,0,1
+"N","Cyto","ProRS","At3g62120","58151","Sconica_v3_40218-RA","",0,0,0,0,3,5,0,1,0
+"M|P|N","Cyto+Organellar","ProRS","At3g62120","63323","Sconica_v3_33921-RA","Gain of organellar targeting relative to Arabidopsis",0,0,17,6,0,0,1,1,1
+"N","Cyto","ProRS","At3g62120","67091","Chr07-anno1.g5125.t1","",0,0,0,2,2,3,0,1,0
+"M|P","Organellar","ProRS","At5g52520","64027","Sconica_v3_52819-RA","",14,14,3,0,9,6,1,0,1
+"M|P","Organellar","SerRS","At1g11870","69252","Sconica_v3_04574-RA","",7,9,0,0,5,1,1,0,1
+"N","Cyto","SerRS","At5g27470","69341","Chr10-anno1.g31646.t1","",0,0,5,6,1,2,0,1,0
+"N","Cyto","SerRS","At5g27470","71253","Sconica_v3_31395-RA","",0,0,5,3,4,2,0,1,0
+"N","Cyto","ThrRS","At1g17960","50299","Chr03-anno1.g57229.t1","",1,1,1,0,11,9,0,1,0
+"M|P","Organellar","ThrRS","At2g04842","53145","Chr03-anno2.g22858.t1","",4,5,8,3,4,0,1,0,1
+"P","Plastid","TrpRS","At2g25840","74083","Sconica_v3_07188-RA","Loss of mito targeting relative to arabidopsis",5,10,1,0,4,3,0,0,1
+"M|N","Cyto+Mito","TrpRS","At3g04600","73022_GLUED","Sconica_v3_31048-RA","Gain of mito targeting relative to Arabidopsis",0,1,12,12,5,3,1,1,0
+"M|N","Cyto+Mito","TyrRS","At1g28350","45311","Sconica_v3_51829-RA","Gain of mito targeting relative to Arabidopsis",0,0,8,2,1,0,1,1,0
+"M|N","Cyto+Mito","TyrRS","At1g28350","82905","Sconica_v3_09223-RA","Gain of mito targeting relative to Arabidopsis",0,0,0,0,1,2,1,1,0
+"M|P","Organellar","TyrRS","At3g02660","3570","Chr02-anno1.g27084.t1","Not in original search set",4,4,0,0,2,4,1,0,1
+"N","Cyto","ValRS","At1g14610","24427","Iso-Seq_ValRS_At1g14610_24427","Loss of mito targeting relative to arabidopsis",0,0,5,3,14,16,0,1,0
+"M|P","Organellar","ValRS","At5g16715","26695","Sconica_v3_25295-RA","",4,6,4,3,2,1,1,0,1
