@@ -9,3 +9,8 @@ Code and data for analysis of LC-MS/MS data from purified mitochondria and chlor
 - [aaRS_enrichment](aaRS_enrichment): R scripts for analysis of enrichment of aaRS proteins and plastid-encoded proteins in organellar fractions
 - [PheRS](PheRS): Scripts (R and PyMol) for structural modeling and analysis of PheRS enrichment
 - [Mitoribosome](Mitoribosome): PyMol script for structural modeling of mitoribosome subunits
+
+
+### Reference
+
+Warren JM, Broz AK, Stikeleather R, Sloan DB. Submitted. [The effects of rapid mitochondrial gene loss on organellar proteomes](https://www.biorxiv.org/content/10.1101/2025.11.24.690252v1). bioRxiv.
