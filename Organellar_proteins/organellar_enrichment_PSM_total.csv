@@ -1,0 +1,13 @@
+﻿Species,Type,Rep,Cp_Abundance_Scaled,Mt_Abundance_Scaled
+Arabidopsis,Chloroplast,1,0.128021978,0.001991758
+Arabidopsis,Chloroplast,2,0.155117402,1.96E-03
+Arabidopsis,Leaf,1,0.055874358,0.003624283
+Arabidopsis,Leaf,2,0.059615283,0.005034179
+Arabidopsis,Mitochondrial,1,0.024759131,0.02347076
+Arabidopsis,Mitochondrial,2,0.024673851,0.025737379
+Silene,Chloroplast,1,0.124659073,0.009225092
+Silene,Chloroplast,2,0.114300137,0.003100887
+Silene,Leaf,1,0.0720757,0.004076908
+Silene,Leaf,2,0.053706464,0.005078103
+Silene,Mitochondrial,1,0.020565419,0.029780809
+Silene,Mitochondrial,2,0.024068542,0.029987036

@@ -4,7 +4,7 @@ library(ggforce)
 log_floor = 0.1
 
 aars_df = read.csv("arabidopsis_aaRS_list.csv")
-psm_df = read.csv("../quantification/arabidopsis_psms.csv")
+psm_df = read.csv("../../Quantification/arabidopsis_psms.csv")
 
 joined_df <- aars_df %>%
   left_join(psm_df, by = c("Accession" = "Master.Protein.Accessions"))

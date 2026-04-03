@@ -1,0 +1,164 @@
+﻿Gene,Species,Genome,UniquePeptides,mito1_unique_psm,mito2_unique_psm,leaf1_unique_psm,leaf2_unique_psm,cp1_unique_psm,cp2_unique_psm,mito,leaf,cp
+ATMG00060.2  NAD5C,Arabidopsis,Mito,7,9,5,1,3,0,0,14,4,0
+ATMG00070.2 sp,Arabidopsis,Mito,20,30,26,3,5,0,0,56,8,0
+ATMG00080.2,Arabidopsis,Mito,2,2,1,0,0,0,0,3,0,0
+ATMG00090.2,Arabidopsis,Mito,9,7,7,0,0,0,0,14,0,0
+ATMG00160.2 sp,Arabidopsis,Mito,10,15,11,3,4,1,1,26,7,2
+ATMG00210.2,Arabidopsis,Mito,3,3,1,0,0,0,0,4,0,0
+ATMG00220.2 tr,Arabidopsis,Mito,3,4,4,2,2,0,0,8,4,0
+ATMG00270.2 tr,Arabidopsis,Mito,3,3,1,0,0,0,0,4,0,0
+ATMG00285.2 sp,Arabidopsis,Mito,5,5,5,2,2,0,0,10,4,0
+ATMG00290.2 tr,Arabidopsis,Mito,9,15,8,0,0,0,0,23,0,0
+ATMG00410.2 sp,Arabidopsis,Mito,1,0,1,0,0,0,0,1,0,0
+ATMG00480.1,Arabidopsis,Mito,14,25,23,5,8,0,1,48,13,1
+ATMG00510.2 tr,Arabidopsis,Mito,35,56,48,14,12,2,4,104,26,6
+ATMG00516.2,Arabidopsis,Mito,5,3,2,2,3,0,0,5,5,0
+ATMG00560.2 tr,Arabidopsis,Mito,5,5,3,0,0,0,0,8,0,0
+ATMG00580.2 tr,Arabidopsis,Mito,5,4,5,2,2,0,0,9,4,0
+ATMG00640.2 sp,Arabidopsis,Mito,15,17,15,2,4,1,1,32,6,2
+ATMG00730.2 sp,Arabidopsis,Mito,2,1,0,1,1,0,0,1,2,0
+ATMG00830.2 tr,Arabidopsis,Mito,2,0,2,0,0,0,0,2,0,0
+ATMG00990.2 sp,Arabidopsis,Mito,1,1,1,0,0,0,0,2,0,0
+ATMG01080.2 sp,Arabidopsis,Mito,1,6,23,0,7,8,0,29,7,8
+ATMG01190.2 sp,Arabidopsis,Mito,69,204,169,35,42,17,17,373,77,34
+ATMG01270.2 tr,Arabidopsis,Mito,3,4,2,0,0,0,0,6,0,0
+ATCG00020.1,Arabidopsis,Plastid,14,13,15,37,45,69,82,28,82,151
+ATCG00120.1,Arabidopsis,Plastid,40,54,42,98,108,131,179,96,206,310
+ATCG00130.2 atpf,Arabidopsis,Plastid,21,11,15,16,19,30,39,26,35,69
+ATCG00140.1,Arabidopsis,Plastid,4,2,0,3,2,6,12,2,5,18
+ATCG00150.1,Arabidopsis,Plastid,4,0,0,6,5,3,4,0,11,7
+ATCG00160.1,Arabidopsis,Plastid,14,3,2,7,6,11,7,5,13,18
+ATCG00170.1,Arabidopsis,Plastid,15,0,0,1,0,19,11,0,1,30
+ATCG00180.2,Arabidopsis,Plastid,3,0,0,0,0,6,3,0,0,9
+ATCG00190.2 RPOB,Arabidopsis,Plastid,20,0,0,2,0,12,17,0,2,29
+ATCG00270.1,Arabidopsis,Plastid,13,9,7,33,32,35,48,16,65,83
+ATCG00280.1,Arabidopsis,Plastid,29,22,23,67,61,109,151,45,128,260
+ATCG00330.2 RPS14,Arabidopsis,Plastid,2,2,0,2,1,4,0,2,3,4
+ATCG00340.1,Arabidopsis,Plastid,22,24,16,67,84,111,141,40,151,252
+ATCG00350.1,Arabidopsis,Plastid,25,19,14,44,28,39,51,33,72,90
+ATCG00360.1,Arabidopsis,Plastid,2,0,0,1,2,2,1,0,3,3
+ATCG00380.1,Arabidopsis,Plastid,9,3,3,7,7,14,8,6,14,22
+ATCG00420.1,Arabidopsis,Plastid,8,0,0,2,3,9,9,0,5,18
+ATCG00430.1,Arabidopsis,Plastid,12,1,0,4,6,12,8,1,10,20
+ATCG00470.1,Arabidopsis,Plastid,12,5,4,7,8,13,21,9,15,34
+ATCG00480.1,Arabidopsis,Plastid,61,49,29,135,162,242,355,78,297,597
+ATCG00490.1,Arabidopsis,Plastid,59,92,84,253,234,444,180,176,487,624
+ATCG00500.2 ACCD,Arabidopsis,Plastid,21,2,0,11,5,23,11,2,16,34
+ATCG00520.1,Arabidopsis,Plastid,7,0,0,0,2,4,6,0,2,10
+ATCG00540.1,Arabidopsis,Plastid,23,12,9,27,26,43,63,21,53,106
+ATCG00550.1,Arabidopsis,Plastid,1,0,0,0,0,1,1,0,0,2
+ATCG00570.2 PSBF,Arabidopsis,Plastid,2,1,0,8,2,2,0,1,10,2
+ATCG00580.2 PSBE,Arabidopsis,Plastid,4,6,3,9,13,21,33,9,22,54
+ATCG00640.1,Arabidopsis,Plastid,4,4,1,0,0,0,1,5,0,1
+ATCG00650.1,Arabidopsis,Plastid,6,1,2,6,7,8,3,3,13,11
+ATCG00660.1,Arabidopsis,Plastid,6,0,0,3,1,5,2,0,4,7
+ATCG00670.2 CLPP1,Arabidopsis,Plastid,5,1,0,5,7,6,1,1,12,7
+ATCG00680.1,Arabidopsis,Plastid,32,36,37,110,108,169,275,73,218,444
+ATCG00700.1,Arabidopsis,Plastid,1,1,1,1,0,1,1,2,1,2
+ATCG00710.1,Arabidopsis,Plastid,3,2,2,1,1,2,1,4,2,3
+ATCG00720.1,Arabidopsis,Plastid,6,3,3,6,8,7,5,6,14,12
+ATCG00730.1,Arabidopsis,Plastid,6,3,2,15,19,7,6,5,34,13
+ATCG00740.2 RPOA,Arabidopsis,Plastid,6,0,0,3,1,7,4,0,4,11
+ATCG00750.1,Arabidopsis,Plastid,7,3,1,5,3,5,5,4,8,10
+ATCG00770.1,Arabidopsis,Plastid,9,0,0,7,3,7,4,0,10,11
+ATCG00780.1,Arabidopsis,Plastid,14,13,9,10,6,15,7,22,16,22
+ATCG00790.1,Arabidopsis,Plastid,4,4,0,3,4,7,3,4,7,10
+ATCG00800.1,Arabidopsis,Plastid,22,12,10,13,14,23,16,22,27,39
+ATCG00810.1,Arabidopsis,Plastid,8,1,1,4,4,6,3,2,8,9
+ATCG00820.1,Arabidopsis,Plastid,5,0,0,2,2,6,3,0,4,9
+ATCG00830.1,Arabidopsis,Plastid,13,7,2,14,12,17,16,9,26,33
+ATCG00840.2 RPL23,Arabidopsis,Plastid,6,2,1,4,5,10,3,3,9,13
+ATCG00860.1,Arabidopsis,Plastid,10,0,0,0,0,10,1,0,0,11
+ATCG00890.2 NDHB,Arabidopsis,Plastid,2,0,0,1,1,1,1,0,2,2
+ATCG00900.1,Arabidopsis,Plastid,11,1,0,8,9,11,10,1,17,21
+ATCG01010.2 NDHF,Arabidopsis,Plastid,14,0,0,5,7,13,11,0,12,24
+ATCG01020.1,Arabidopsis,Plastid,2,2,0,0,1,3,2,2,1,5
+ATCG01050.2,Arabidopsis,Plastid,3,0,0,1,2,2,0,0,3,2
+ATCG01060.1,Arabidopsis,Plastid,9,11,7,7,9,24,15,18,16,39
+ATCG01070.1,Arabidopsis,Plastid,1,0,0,1,0,1,1,0,1,2
+ATCG01090.1,Arabidopsis,Plastid,8,0,1,3,3,8,7,1,6,15
+ATCG01100.1,Arabidopsis,Plastid,4,0,0,3,1,4,4,0,4,8
+ATCG01110.1,Arabidopsis,Plastid,18,0,0,13,14,20,22,0,27,42
+ATCG01120.1,Arabidopsis,Plastid,7,3,1,5,4,8,5,4,9,13
+ATCG01130.1,Arabidopsis,Plastid,29,1,1,3,8,36,16,2,11,52
+mito_atp1,Silene,Mito,61,326,301,32,52,66,29,627,84,95
+mito_atp4,Silene,Mito,14,31,32,7,9,11,6,63,16,17
+mito_atp6,Silene,Mito,3,1,4,1,1,6,0,5,2,6
+mito_atp8,Silene,Mito,17,26,26,4,4,1,0,52,8,1
+mito_atp9,Silene,Mito,2,30,39,11,2,29,7,69,13,36
+mito_ccmFn,Silene,Mito,5,5,3,0,0,0,0,8,0,0
+mito_cob,Silene,Mito,2,4,4,1,1,0,0,8,2,0
+mito_cox1,Silene,Mito,2,0,3,1,0,0,0,3,1,0
+mito_cox2,Silene,Mito,10,12,10,4,3,2,1,22,7,3
+mito_cox3,Silene,Mito,2,4,3,0,3,0,0,7,3,0
+mito_nad1,Silene,Mito,4,4,1,1,0,0,0,5,1,0
+mito_nad2,Silene,Mito,7,4,6,3,2,0,0,10,5,0
+mito_nad3,Silene,Mito,1,1,1,0,0,0,0,2,0,0
+mito_nad4,Silene,Mito,2,2,1,2,2,0,0,3,4,0
+mito_nad5,Silene,Mito,10,13,11,3,2,0,0,24,5,0
+mito_nad6,Silene,Mito,1,0,2,0,0,0,0,2,0,0
+mito_nad7,Silene,Mito,26,38,28,6,5,0,0,66,11,0
+mito_nad9,Silene,Mito,24,38,33,5,6,0,0,71,11,0
+mito_rpl5,Silene,Mito,4,6,2,0,0,0,0,8,0,0
+mito_rps13-1,Silene,Mito,2,3,5,0,0,0,0,8,0,0
+mito_rps3,Silene,Mito,24,24,17,0,0,0,0,41,0,0
+plastid_accD,Silene,Plastid,7,2,1,3,1,4,5,3,4,9
+plastid_atpA,Silene,Plastid,32,21,26,138,88,119,109,47,226,228
+plastid_atpB,Silene,Plastid,44,25,38,144,104,199,176,63,248,375
+plastid_atpE,Silene,Plastid,10,0,3,9,9,10,16,3,18,26
+plastid_atpF,Silene,Plastid,19,11,11,23,17,30,34,22,40,64
+plastid_atpH,Silene,Plastid,4,0,0,9,1,7,8,0,10,15
+plastid_atpI,Silene,Plastid,4,2,1,8,3,1,1,3,11,2
+plastid_clpP,Silene,Plastid,12,7,5,14,14,19,21,12,28,40
+plastid_ndhA,Silene,Plastid,6,0,0,3,4,3,3,0,7,6
+plastid_ndhB,Silene,Plastid,1,0,0,1,0,2,1,0,1,3
+plastid_ndhD,Silene,Plastid,1,0,0,1,1,1,0,0,2,1
+plastid_ndhE,Silene,Plastid,1,0,0,1,1,0,1,0,2,1
+plastid_ndhF,Silene,Plastid,11,0,0,7,7,9,8,0,14,17
+plastid_ndhH,Silene,Plastid,18,0,1,15,10,20,19,1,25,39
+plastid_ndhI,Silene,Plastid,8,1,1,6,4,8,7,2,10,15
+plastid_ndhJ,Silene,Plastid,9,0,1,4,3,6,6,1,7,12
+plastid_ndhK,Silene,Plastid,11,0,0,8,6,12,9,0,14,21
+plastid_petA,Silene,Plastid,23,6,15,34,31,41,37,21,65,78
+plastid_petB,Silene,Plastid,6,2,2,11,7,10,8,4,18,18
+plastid_petD,Silene,Plastid,3,0,2,24,4,4,6,2,28,10
+plastid_psaA,Silene,Plastid,25,11,13,46,26,34,35,24,72,69
+plastid_psaB,Silene,Plastid,19,8,12,97,113,143,108,20,210,251
+plastid_psaC,Silene,Plastid,9,6,4,8,3,24,18,10,11,42
+plastid_psbA,Silene,Plastid,12,9,15,42,26,67,53,24,68,120
+plastid_psbB,Silene,Plastid,32,17,23,109,86,127,128,40,195,255
+plastid_psbC,Silene,Plastid,26,11,10,57,52,98,96,21,109,194
+plastid_psbD,Silene,Plastid,14,5,5,33,29,33,35,10,62,68
+plastid_psbE,Silene,Plastid,4,2,2,17,6,17,18,4,23,35
+plastid_psbF,Silene,Plastid,2,2,2,6,1,1,0,4,7,1
+plastid_psbH,Silene,Plastid,3,2,2,2,0,3,7,4,2,10
+plastid_psbJ,Silene,Plastid,1,0,0,0,0,1,1,0,0,2
+plastid_rbcL,Silene,Plastid,67,204,187,410,239,327,408,391,649,735
+plastid_rpl14,Silene,Plastid,11,2,5,9,5,11,14,7,14,25
+plastid_rpl16,Silene,Plastid,6,4,2,6,2,6,9,6,8,15
+plastid_rpl2,Silene,Plastid,14,1,3,15,5,12,17,4,20,29
+plastid_rpl20,Silene,Plastid,5,0,1,6,4,6,7,1,10,13
+plastid_rpl22,Silene,Plastid,13,2,0,12,4,10,12,2,16,22
+plastid_rpl32,Silene,Plastid,3,2,1,3,1,1,2,3,4,3
+plastid_rpl33,Silene,Plastid,3,1,4,2,0,1,1,5,2,2
+plastid_rpl36,Silene,Plastid,1,0,0,0,0,0,1,0,0,1
+plastid_rpoA,Silene,Plastid,8,0,0,1,1,8,4,0,2,12
+plastid_rpoB,Silene,Plastid,13,0,0,1,0,9,10,0,1,19
+plastid_rpoC1,Silene,Plastid,3,0,0,1,0,2,4,0,1,6
+plastid_rpoC2,Silene,Plastid,9,0,0,1,0,8,6,0,1,14
+plastid_rps11,Silene,Plastid,8,1,1,6,2,2,7,2,8,9
+plastid_rps12,Silene,Plastid,3,0,1,3,1,3,1,1,4,4
+plastid_rps14,Silene,Plastid,4,1,2,4,2,3,3,3,6,6
+plastid_rps15,Silene,Plastid,4,1,1,3,2,5,4,2,5,9
+plastid_rps16,Silene,Plastid,4,1,2,4,3,2,5,3,7,7
+plastid_rps18,Silene,Plastid,6,1,2,4,3,5,10,3,7,15
+plastid_rps19,Silene,Plastid,8,4,1,5,5,9,9,5,10,18
+plastid_rps2,Silene,Plastid,8,3,2,5,3,4,6,5,8,10
+plastid_rps3,Silene,Plastid,17,6,6,14,6,12,15,12,20,27
+plastid_rps4,Silene,Plastid,14,4,2,13,7,15,14,6,20,29
+plastid_rps7,Silene,Plastid,10,2,1,8,7,10,11,3,15,21
+plastid_rps8,Silene,Plastid,9,2,1,5,2,6,6,3,7,12
+plastid_ycf1,Silene,Plastid,22,3,2,6,6,10,12,5,12,22
+plastid_ycf2,Silene,Plastid,12,0,1,2,2,9,5,1,4,14
+plastid_ycf3,Silene,Plastid,6,0,3,1,2,3,5,3,3,8
+plastid_ycf4,Silene,Plastid,3,0,0,2,2,2,3,0,4,5
