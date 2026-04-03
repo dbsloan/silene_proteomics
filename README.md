@@ -10,7 +10,7 @@ Code and data for analysis of LC-MS/MS data from purified mitochondria and chlor
 - [PheRS](PheRS): Scripts (R and PyMol) for structural modeling and analysis of PheRS enrichment
 - [Mitoribosome](Mitoribosome): PyMol script for structural modeling of mitoribosome subunits
 - [Correlation_matrix](Correlation_matrix): R scipts and data for generation of bio-replicate correlation matrix plots
-- 
+
 
 ### Reference
 
